@@ -1,0 +1,2 @@
+# pythonexercicios
+ Resolução de Exercícios
